@@ -13,7 +13,7 @@ header:
   nav_links:
     - label: Home
       url: /
-      style: link
+      style: icon
       has_subnav: false
     - label: Docs
       url: /docs
